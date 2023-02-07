@@ -47,4 +47,7 @@ Atuo também utilizando Docker e Swarm para com o acompanhamento de logs da apli
 <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
 <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+          
+<img align="center" height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+          
 </div>
