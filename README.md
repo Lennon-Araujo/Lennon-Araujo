@@ -32,8 +32,8 @@ Atuo também utilizando Docker e Swarm para com o acompanhamento de logs da apli
 </div>
           
 ### Automação de testes
-<div style="inline-block">
-<img align="center" style="border-bottom: 2px solid red" height="70em" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_10f53e90961b98df0191922f13efd135/cypress.png" />
+<div style="inline-block border-bottom: 2px solid red">
+<img align="center" height="70em" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_10f53e90961b98df0191922f13efd135/cypress.png" />
 
 <img align="center" height="70em" src="https://www.loadview-testing.com/wp-content/uploads/K6-logo.png" />
 </div>
