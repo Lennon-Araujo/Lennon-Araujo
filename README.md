@@ -6,18 +6,17 @@ Atuo visando a garantia de Qualidade de Software, acompanho todo o processo de d
 
 Atuo também utilizando Docker e Swarm para com o acompanhamento de logs da aplicação e correções de ambiente de homologação. Uso MongoDB, Atlas ou Compass para verificação dos dados durante a execução dos testes.
 
-### Contatos:
-
-<div>
-<a href="https://www.linkedin.com/in/lennon-araujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
 <div style="inline-block">
 <a href="https://github.com/Lennon-Araujo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lennon-Araujo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lennon-Araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+          
+### Contatos:
 
+<div>
+<a href="https://www.linkedin.com/in/lennon-araujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ### Tecnologias
 <div style="inline-block">          
