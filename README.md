@@ -1,4 +1,4 @@
-# Eae galera, me chamo Lennon Araújo! 
+## Eae galera, me chamo Lennon Araújo! 
 ## Bem vindo ao meu perfil :grin:
 
 Sou QA Tester.
@@ -22,25 +22,25 @@ Atuo também utilizando Docker e Swarm para com o acompanhamento de logs da apli
 
 ## Ferramentas e Tecnologias
 <div style="inline-block">
-<img align="center" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img align="center" height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
-<img align="center" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+<img align="center" height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
           
-<img align="center" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
           
-<img align="center" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
             
-<img align="center" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="center" height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
-<img align="center" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="center" height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
-<img align="center" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="center" height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 
-<img align="center" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="center" height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
-<img align="center" height="180em" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_10f53e90961b98df0191922f13efd135/cypress.png" />
+<img align="center" height="70em" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_10f53e90961b98df0191922f13efd135/cypress.png" />
 
-<img align="center" height="180em" src="https://www.loadview-testing.com/wp-content/uploads/K6-logo.png" />
+<img align="center" height="70em" src="https://www.loadview-testing.com/wp-content/uploads/K6-logo.png" />
 
-<img align="center" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="center" height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
