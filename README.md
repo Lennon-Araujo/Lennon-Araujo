@@ -8,8 +8,8 @@ Atuo também utilizando Docker e Swarm para com o acompanhamento de logs da apli
 
 <div style="inline-block">
 <a href="https://github.com/Lennon-Araujo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lennon-Araujo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lennon-Araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lennon-Araujo&layout=compact&langs_count=7&theme=aura"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lennon-Araujo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
           
 ### Contatos:
@@ -33,7 +33,7 @@ Atuo também utilizando Docker e Swarm para com o acompanhamento de logs da apli
           
 ### Automação de testes
 <div style="inline-block">
-<img align="center" height="70em" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_10f53e90961b98df0191922f13efd135/cypress.png" />
+<img align="center" style="margin-right: 20rem" height="70em" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_10f53e90961b98df0191922f13efd135/cypress.png" />
 
 <img align="center" height="70em" src="https://www.loadview-testing.com/wp-content/uploads/K6-logo.png" />
 </div>
