@@ -1,10 +1,13 @@
 ## Eae, eu sou o Lennon Araújo e sejam bem vindos :grin:! 
 
-Sou QA Tester.
+Atualmente sou QA Analyst, e estou migrando para Desenvolvedor. Meu objetivo é me tornar um profissional de Engenharia de Software que possui desde a base a cultura de Qualidade de Software, criando sistemas com alto padrão de qualidade.
 
-Atuo visando a garantia de Qualidade de Software, acompanho todo o processo de desenvolvimento desde o planejamento e análise dos requisitos até a entrega final em ambiente de produção. Planejo estratégias de testes específicas para cada feature seguindo os padrões de níveis, tipos e técnicas de testes, executo testes manuais e também atuo desenvolvendo automação de testes funcionais E2E utilizando Cypress, testes de performance e carga utilizando K6, testes de API com Postman.
+Sou formado em Análise e Desenvolvimento de Sistemas, estou cursando Pós-gradução em Engenharia de Software, e tenho mais de 3 anos de experiência com Qualidade de Software e Desenvolvimento, atuando em todo o processo da Engenharia, desde a ideação até a entrega final.
 
-Atuo também utilizando Docker e Swarm para com o acompanhamento de logs da aplicação e correções de ambiente de homologação. Uso MongoDB, Atlas ou Compass para verificação dos dados durante a execução dos testes.
+Possuo conhecimento em algumas linguagens de programação, principalmente Javascript e Typescript, incluindo alguns framework mais utilizados, tendo criados projetos pessoais e atuado profissionalmente em ambientes de homologação e produção, princiapalmente para a Web, contudo, há 1 ano estou trabalhando exclusivamente com times focados em Desenvolvimento Mobile Nativo e Híbrido.
+
+Também possuo experiência em Automação de Testes em vários níveis: unitário, integração, API, E2E, Performance (Carga, Estresse, Resistência).
+Abaixo listo algumas ferramentas com as quais já trabalhei.
 
 <div style="inline-block">
 <a href="https://github.com/Lennon-Araujo">
@@ -23,17 +26,27 @@ Atuo também utilizando Docker e Swarm para com o acompanhamento de logs da apli
 <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
           
 <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-            
-<img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
 <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
+<img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+<img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
 <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+
+<img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+
+
 </div>
           
 ### Automação de testes
 <div style="inline-block">
 <img align="center" height="50em" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_10f53e90961b98df0191922f13efd135/cypress.png" />
+          
+<img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+
+<img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
 
 <img align="center" height="50em" src="https://www.loadview-testing.com/wp-content/uploads/K6-logo.png" />
 </div>
@@ -47,7 +60,13 @@ Atuo também utilizando Docker e Swarm para com o acompanhamento de logs da apli
 <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
 <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+
+<img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+<img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
           
-<img align="center" height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+<img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+
+<img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" />
           
 </div>
