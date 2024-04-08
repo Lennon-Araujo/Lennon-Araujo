@@ -4,7 +4,7 @@ Atualmente sou QA Analyst, e estou migrando para Desenvolvedor. Meu objetivo é 
 
 Sou formado em Análise e Desenvolvimento de Sistemas, estou cursando Pós-gradução em Engenharia de Software, e tenho mais de 3 anos de experiência com Qualidade de Software e Desenvolvimento, atuando em todo o processo da Engenharia, desde a ideação até a entrega final.
 
-Possuo conhecimento em algumas linguagens de programação, principalmente Javascript e Typescript, incluindo alguns framework mais utilizados, tendo criados projetos pessoais e atuado profissionalmente em ambientes de homologação e produção, princiapalmente para a Web, contudo, há 1 ano estou trabalhando exclusivamente com times focados em Desenvolvimento Mobile Nativo e Híbrido.
+Possuo conhecimento em algumas linguagens de programação, principalmente Javascript e Typescript, incluindo alguns framework mais utilizados, tendo criados projetos pessoais e atuado profissionalmente em ambientes de homologação e produção, principalmente para a Web, contudo, há 1 ano estou trabalhando exclusivamente com times focados em Desenvolvimento Mobile Nativo e Híbrido.
 
 Também possuo experiência em Automação de Testes em vários níveis: unitário, integração, API, E2E, Performance (Carga, Estresse, Resistência).
 Abaixo listo algumas ferramentas com as quais já trabalhei.
